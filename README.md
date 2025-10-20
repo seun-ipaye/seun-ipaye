@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seun Samuel-Ipaye</h1>
-<h3 align="center">A passionate Software developer from Nigeria</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on [spotify playlist manager]([https://github.com/seun-ipaye/SpofityManager])
+I’m currently working on [spotify playlist manager]([https://github.com/seun-ipaye/SpofityManager])
 
-- 🌱 I’m currently learning **Java and Python**
+Reach me at **seuneipaye@gmail.com**
 
-- 👯 I’m looking to collaborate on **a full stack or fintech project**
-
-- 📫 How to reach me **seuneipaye@gmail.com**
+Check out my [portfolio!]([https://www.seun.ink])! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
