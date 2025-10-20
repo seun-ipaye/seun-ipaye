@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seun Samuel-Ipaye</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-I’m currently working on [spotify playlist manager]([https://github.com/seun-ipaye/SpofityManager])
+I’m currently working on [spotify playlist manager](https://github.com/seun-ipaye/SpofityManager)
 
 Reach me at **seuneipaye@gmail.com**
 
-Check out my [portfolio!]([https://www.seun.ink])! 
+Check out my [portfolio!](https://www.seun.ink)! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
