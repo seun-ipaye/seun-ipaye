@@ -1,29 +1,25 @@
 <h1 align="center">Hi 👋, I'm Seun Samuel-Ipaye</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-I’m currently working on 
-<a 
-  href="https://github.com/seun-ipaye/SpofityManager" 
-  target="_blank" 
-  rel="noopener noreferrer"
->
-  spotify playlist manager
-</a>
+I’m currently working on [spotify playlist manager](https://github.com/seun-ipaye/SpofityManager).
 
-<br /><br />
+Reach me at **seuneipaye@gmail.com**
 
-Reach me at <strong>seuneipaye@gmail.com</strong>
+Check out my [portfolio!](https://www.seun.ink)
 
-<br /><br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/seun-ipaye">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seun ipaye" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/seun.ipaye">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seun.ipaye" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/seun-17">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seun-17" height="30" width="40" />
+  </a>
+</p>
 
-Check out my 
-<a 
-  href="https://www.seun.ink" 
-  target="_blank" 
-  rel="noopener noreferrer"
->
-  portfolio!
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
