@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Seun</h1>
 
-### Software Developer @ Greenshield | Co-Founder & Co-President of BSCS | Comp Sci Co-op @ UWindsor
+<h3 align="center">Software Developer @ Greenshield | Co-Founder & Co-President of BSCS | Honours Computer Science Co-op @ UWindsor</h3>
 
 I’m currently working on [Play This](https://github.com/seun-ipaye/play-this), a real-time song suggestion web-app for parties.
 
