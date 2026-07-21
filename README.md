@@ -2,8 +2,6 @@
 
 <h3 align="center">Software Developer @ Greenshield | Co-Founder & Co-President of BSCS | Honours Computer Science Co-op @ UWindsor</h3>
 
-I’m currently working on [Play This](https://github.com/seun-ipaye/play-this), a real-time song suggestion web-app for parties.
-
 Reach me at **seuneipaye@gmail.com**.
 
 Check out my [portfolio](https://www.seun.ink) and [Linkedin](https://linkedin.com/in/seun-ipaye)!
