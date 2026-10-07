@@ -4,7 +4,7 @@
 
 Reach me at **seuneipaye@gmail.com**.
 
-Check out my [portfolio](https://www.seun.ink) and [Linkedin](https://linkedin.com/in/seun-ipaye)!
+Check out my [portfolio](https://www.seun.ink) and [LinkedIn](https://www.linkedin.com/in/seunipaye/)!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/seun-17?theme=dark)
 
