@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Seun</h1>
 
-<h3 align="center">Software Developer @ Greenshield | Co-Founder & Co-President of BSCS | Honours Computer Science Co-op @ UWindsor</h3>
+<h3 align="center">Software Developer @ Greenshield | Comp Sci Co-op @ UWindsor</h3>
 
 Reach me at **seuneipaye@gmail.com**.
 
 Check out my [portfolio](https://www.seun.ink) and [Linkedin](https://linkedin.com/in/seun-ipaye)!
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/seun-17?theme=dark)
 
 ###  Skills
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
