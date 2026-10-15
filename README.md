@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Seun</h1>
 
-<h3 align="center">Software Developer @ Greenshield | Comp Sci Co-op @ UWindsor</h3>
+<h3 align="center">Comp Sci Co-op @ UWindsor</h3>
 
-Reach me at **seuneipaye@gmail.com**.
+Reach me at **samueli@uwindsor.ca**.
 
 Check out my [portfolio](https://www.seun.ink) and [LinkedIn](https://www.linkedin.com/in/seunipaye/)!
 
