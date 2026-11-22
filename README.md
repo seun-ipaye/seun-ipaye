@@ -4,7 +4,7 @@
 
 Reach me at **samueli@uwindsor.ca**.
 
-Check out my [portfolio](https://www.seun.ink) and [LinkedIn](https://www.linkedin.com/in/seunipaye/)!
+Check out my <a href="https://www.seun.ink" target="_blank">portfolio</a> and <a href="https://www.linkedin.com/in/seunipaye/" target="_blank">LinkedIn</a>!
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/seun-17?theme=dark&ext=heatmap)](https://leetcode.com/seun-17)
