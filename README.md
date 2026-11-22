@@ -6,8 +6,8 @@ Reach me at **samueli@uwindsor.ca**.
 
 Check out my [portfolio](https://www.seun.ink) and [LinkedIn](https://www.linkedin.com/in/seunipaye/)!
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/seun-17?theme=dark)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/seun-17?theme=dark&ext=heatmap)](https://leetcode.com/seun-17)
 ###  Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
